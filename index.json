@@ -1,7 +1,7 @@
 {
   "base_url": "https://raw.githubusercontent.com/lvender-12/umamusule-tl-id/main/localized_data",
   "zip_url": "https://codeload.github.com/lvender-12/umamusule-tl-id/zip/refs/heads/main",
-  "zip_dir": "tl-id-main/localized_data",
+  "zip_dir": "umamusule-tl-id/localized_data",
   "files": [
     {
       "path": ".nomedia",
